@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pearch001
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Spring boot Frame work
+- 👀 I’m a Software Engineer
+- 🌱 I’m work with the Spring boot Frame work
 - 💞️ I’m looking to collaborate on creating web applications
 - 📫 How to reach me https://www.linkedin.com/in/segun-kasim-275710195/
 
