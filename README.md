@@ -6,11 +6,11 @@
 </a>&nbsp;&nbsp;
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pearch001" alt="Lizzy223" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pearch001" alt="pearch001" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pearch001" alt="Lizzy223" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pearch001" alt="pearch001" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pearch001" alt="Lizzy223" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pearch001" alt="pearch001" /></p>
 
 
 - 👋 Hi, I’m @pearch001
