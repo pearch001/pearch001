@@ -15,8 +15,9 @@
 
 - 👋 Hi, I’m @pearch001
 - 👀 I’m a Software Engineer
-- 🌱 I’m work with the Spring boot Frame work
+- 🌱 I work with the Spring boot Frame work, python and tensorflow
 - 💞️ I’m looking to collaborate on creating web applications
+- 💞️ I’m intrested in leveraging AI to solve real worl problems
 - 📫 How to reach me https://www.linkedin.com/in/segun-kasim-275710195/
 
 <!---
