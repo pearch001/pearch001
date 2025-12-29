@@ -12,7 +12,7 @@
 - 🌱 I work with the Spring boot Frame work, python and tensorflow
 - 💞️ I’m looking to collaborate on creating web applications
 - 💞️ I’m intrested in leveraging AI to solve real worl problems
-- 📫 How to reach me https://www.linkedin.com/in/segun-kasim-275710195/
+- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/segun-kasim-software-engineer/)
 
 <!---
 pearch001/pearch001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
