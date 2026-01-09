@@ -66,7 +66,7 @@ I write about ML systems, backend architecture, and AI development on [Medium](h
 
 ## 🏆 Recent Achievements
 
-**Thinkathon Hackathon Winner** (Dec 2024)  
+**Thinkathon Hackathon Winner** (Dec 2025)  
 First place for AI-powered solution - built production-ready ML system in 72 hours with a team of 3.
 
 ## 🤝 Let's Connect
